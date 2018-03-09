@@ -1,2 +1,2 @@
 # Abb
-little web project with django
+little web project with django+TDD+MYSQL
